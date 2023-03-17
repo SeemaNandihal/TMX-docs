@@ -65,6 +65,12 @@ const config = {
         },
         items: [
           {
+            type: 'docsVersionDropdown',
+            position: 'right',
+          },
+
+       
+          {
             type: 'doc',
             docId: 'p0-1-Introduction',
             position: 'left',
@@ -77,6 +83,7 @@ const config = {
             position: 'right',
           },
         ],
+     
       },
       // footer: {
       //   style: 'dark',
