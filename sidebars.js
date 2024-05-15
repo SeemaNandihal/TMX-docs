@@ -82,6 +82,7 @@ module.exports = {
           ],
         },
         'TMX Work flow/p6-01-Billing',  
+        'TMX Work flow/p6-02-WPO',  
 
       ],
               
