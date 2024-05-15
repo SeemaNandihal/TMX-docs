@@ -44,6 +44,7 @@ module.exports = {
       label: 'Objective',
       id : 'p0-02-Objective',
     },  
+    
   
     {
       type: 'category',
@@ -82,7 +83,7 @@ module.exports = {
           ],
         },
         'TMX Work flow/p6-01-Billing',  
-        'TMX Work flow/p6-02-WPO',  
+        'TMX Work flow/p7-01-WPO',
 
       ],
               
